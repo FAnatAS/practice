@@ -67,9 +67,7 @@
   font-size: 0.7em;
 }
 .follow-bg {
-  background-color: forestgreen;
-  border-radius: ;
-}
+  background-color: forestgreen;}
 .main-bg {
   background-color: var(--main-color);
 }
